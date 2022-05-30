@@ -16,9 +16,9 @@ data 來自 Lidemy 提供的 comments 與 posts API
 
 ## DEMO
 -   mobile
-![mobile](./img/my-app\img\mobile.jpeg)
+![mobile](images/mobile.jpeg)
 -   desktop
-![desktop](./img/my-app\img\desktop.jpeg)
+![desktop](images/desktop.jpeg)
 
 ## 說明
 
