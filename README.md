@@ -1,6 +1,6 @@
 # 簡易 React SPA Blog
 
-data 來自 Lidemy 提供的 comments 與 posts API  
+data 來自 [Lidemy 提供的 comments 與 posts API](https://github.com/Lidemy/lidemy-student-json-api-server)  
 可以登入、註冊並發布文章與匿名留言
 
 👉[DEMO](https://meitung473.github.io/React-SPA-Blog/)
