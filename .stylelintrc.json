@@ -1,0 +1,16 @@
+{
+    "processors": [
+        "stylelint-processor-styled-components"
+    ],
+    "extends": [
+        "stylelint-config-styled-components",
+        "stylelint-prettier/recommended",
+        "stylelint-config-idiomatic-order"
+    ],
+    "plugins": [
+        "stylelint-prettier"
+    ],
+    "rules": {
+        "prettier/prettier": true
+    }
+}
