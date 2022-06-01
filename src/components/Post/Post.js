@@ -200,11 +200,12 @@ Title.propTypes = {
 
 function Body({ children }) {
   const { user, createdAt } = children;
+
   return (
     <Info>
       <CreatedDate>{`${new Date(createdAt).toLocaleString()}`}</CreatedDate>
       <span>by</span>
-      <Author>{user.nickname ? user.nickname : "匿名作者"}</Author>
+      <Author>{user ? user.nickname : "匿名作者"}</Author>
     </Info>
   );
 }
